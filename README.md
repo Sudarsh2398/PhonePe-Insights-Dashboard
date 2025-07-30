@@ -18,10 +18,13 @@ An interactive dashboard built using **Streamlit** to explore and analyze PhoneP
 
 ## 📂 Project Structure
 
-app.py ---> main streamlit app
-analysis.py ---> all business logic functions
-db_connect.py ---> connect and loads data from postgreSQL
-requirements.txt ---> python dependencies
+> app.py ---> main streamlit app
+
+> analysis.py ---> all business logic functions
+
+> db_connect.py ---> connect and loads data from postgreSQL
+
+> requirements.txt ---> python dependencies
 
 ---
 
