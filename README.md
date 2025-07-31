@@ -24,6 +24,8 @@ An interactive dashboard built using **Streamlit** to explore and analyze PhoneP
 
 > db_connect.py ---> connect and loads data from postgreSQL
 
+> caseStudy.ipynb ---> fetching data from phonepe pulse, handled, cleaned and seperated to dataframe and loads in to DB(postgreSQL)
+
 > requirements.txt ---> python dependencies
 
 ---
